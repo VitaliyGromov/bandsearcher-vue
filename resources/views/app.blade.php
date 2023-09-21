@@ -3,8 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Install Vue 3 in Laravel 9 with Vite</title>
-
+        <title>Music instruments</title>
         @vite(['resources/css/app.css', 'resources/js/app.js'])
     </head>
     <body>
@@ -12,4 +11,5 @@
             
         </div>
     </body>
+    <script src="https://unpkg.com/flowbite@1.5.1/dist/flowbite.js"></script>
 </html>
